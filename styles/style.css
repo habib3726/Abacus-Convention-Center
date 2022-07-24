@@ -1,0 +1,10 @@
+.hover:hover {
+    background-color: rgb(87, 73, 217);
+    color: aliceblue;
+    font-weight: 500;
+}
+
+.person {
+    width: 100px;
+    height: 100px;
+}
